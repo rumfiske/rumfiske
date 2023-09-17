@@ -1,8 +1,8 @@
-# 👋 Hej, mit navn er Charlie (24 år)
+# 👋 Hej, mit navn er Charlie (25 år)
 - 🏫 Uddannet Web-Udvikler (06-12-2021)
 - 👀 Følger med på den nyeste teknologi inden for webudvikling.
 - 🌱 *******
-- 💞️ Er altid frisk på sparring.
+- 💞️ Nextjs & React-Native.
 - 📫 Kontakt muligheder nederst.
 
 #### Facebook: https://www.facebook.com/charlieostergaard/
