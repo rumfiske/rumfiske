@@ -1,4 +1,4 @@
-# 👋 Hej, mit navn er Charlie (25 år)
+# 👋 Hej, mit navn er Charlie (26 år)
 - 🏫 Uddannet Web-Udvikler
 - 👀 Følger med på den nyeste teknologi inden for webudvikling.
 - 🌱 *******
